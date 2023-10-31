@@ -1,8 +1,6 @@
-## Marcos Roberto (Developer: Front-End) - Pleno/Sênior
+## Marcos Roberto (Developer: Front-End) - Sênior
  <div>
   <a href="https://github.com/marcos-roberto-dev">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcos-roberto-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-roberto-dev&layout=compact&langs_count=7&theme=dracula"/>
 
 </div>
